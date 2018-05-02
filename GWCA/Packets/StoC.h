@@ -285,6 +285,6 @@ namespace GW {
 				// BYTE
 			};
 			const DWORD Packet<PartyPlayerAdd>::STATIC_HEADER = 457;
-        }
+        	}
 	}
 }
