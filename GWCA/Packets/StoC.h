@@ -207,6 +207,19 @@ namespace GW {
 			};
 			const DWORD Packet<AgentModel>::STATIC_HEADER = 175;
 
+	    //StoC Packets for Quest Take/Completion
+	    //Quest Done
+			struct P176 : Packet<P176> {
+				DWORD quest_id;
+			};
+			const DWORD Packet<P176>::STATIC_HEADER = 176;
+
+	    //Quest Take
+			struct P177 : Packet<P177> {
+				DWORD quest_id;
+			};
+			const DWORD Packet<P177>::STATIC_HEADER = 177;
+
             // Skill Activate (begin casting)
 			struct SkillActivate : Packet<SkillActivate> {
 				DWORD agent_id;
