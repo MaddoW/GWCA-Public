@@ -206,16 +206,16 @@ namespace GW {
                 const int StygianHorror = 5174;
                 const int StygianFiend = 5175;
 
-				// tormentors in veil
-				const int VeilMindTormentor = 5176;
-				const int VeilSoulTormentor = 5177;
-				const int VeilWaterTormentor = 5178;
-				const int VeilHeartTormentor = 5179;
-				const int VeilFleshTormentor = 5180;
-				const int VeilSpiritTormentor = 5181;
-				const int VeilEarthTormentor = 5182;
-				const int VeilSanityTormentor = 5183;
-				// tormentors
+		// tormentors in veil
+		const int VeilMindTormentor = 5176;
+		const int VeilSoulTormentor = 5177;
+		const int VeilWaterTormentor = 5178;
+		const int VeilHeartTormentor = 5179;
+		const int VeilFleshTormentor = 5180;
+		const int VeilSpiritTormentor = 5181;
+		const int VeilEarthTormentor = 5182;
+		const int VeilSanityTormentor = 5183;
+		// tormentors
                 const int MindTormentor = 5200;
                 const int SoulTormentor = 5201;
                 const int WaterTormentor = 5202;
